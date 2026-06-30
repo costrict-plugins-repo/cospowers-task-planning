@@ -1,0 +1,16 @@
+{
+    "name": "ai-workers-plan",
+    "owner": {
+        "name": "Sangfor"
+    },
+    "plugins": [
+        {
+            "name": "cospowers-task-planning",
+            "version": "0.0.1",
+            "source": "./",
+            "author": {
+                "name": "Sangfor"
+            }
+        }
+    ]
+}
